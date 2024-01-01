@@ -1,5 +1,8 @@
 # CACm
-Chaotic Amplitude Control with momentum - curator: Timothee Leleu
+Chaotic Amplitude Control with momentum
+
+Curator: Timothee Leleu
+Last update: 2023/12/31 (Timothee Leleu)
 
 # Installation
 
