@@ -1,22 +1,14 @@
 # CACm
-Chaotic Amplitude Control with momentum
-
-Curator: Timothee Leleu
-
-Last update: 2023/12/31 (Timothee Leleu)
+Chaotic Amplitude Control with momentum - curator: Timothee Leleu
 
 # Installation
 
 ## local install
 
 python -m venv CACm
-
 source CACm/bin/activate
-
 git clone https://github.com/NTTRI-PHI-Algorithms/CACm.git ./
-
 pip install .
-
 python ./CACm/models_pyTorch.py
 
 
