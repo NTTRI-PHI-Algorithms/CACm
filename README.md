@@ -5,14 +5,12 @@ Author: Timothee Leleu
 
 # Installation
 
-## local install
+## local install (windows)
 
-python -m venv CACm
-source CACm/bin/activate
-git clone https://github.com/NTTRI-PHI-Algorithms/CACm.git ./
-pip install .
-python ./CACm/models_pyTorch.py
-
+1) create a python environment (e.g. CACm)
+2) clone the python repository found at https://github.com/NTTRI-PHI-Algorithms/CACm
+3) install via "pip install ." at the root of the repository
+4) see notebook "main_pyTorch.ipynb", or run "python ./CACm/models_pyTorch.py"
 
 # Description
 
